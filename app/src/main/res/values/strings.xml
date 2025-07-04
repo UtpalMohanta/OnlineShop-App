@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="header">LIVE YOU \n PERFECT</string>
+    <string name="header1">Smart, gorgeous &amp; fashionable\n
+    collection makes you cool</string>
+    <string name="startBtn">Get Started</string>
+    <string name="String">Spring Sale</string>
+    <string name="offer">Save up to 30$ \n
+    on sale Sneakers</string>
+    <string name="search">Search anything</string>
+    <string name="categories">Categories</string>
+    <string name="see">See all</string>
+    <string name="seller">Best Seller Product</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="weight">Weight</string>
+    <string name="profile">Profile</string>
+    <string name="title">Title</string>
+    <string name="title1">title</string>
+    <string name="dii">$</string>
+    <string name="jam">$-</string>
+    <string name="my_order">My Order</string>
+    <string name="list">List</string>
+    <string name="_0">$0</string>
+    <string name="_01">0</string>
+    <string name="select_size">Select Size</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="s">s</string>
+    <string name="my_cart">My Cart</string>
+    <string name="enter_your_copun">Enter Your Copun</string>
+    <string name="apply">Apply</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total</string>
+    <string name="check_out">Check Out</string>
+    <string name="your_card_is_empty">Your Card is empty</string>
+    <string name="your_card_is_empty1">Your Card is empty</string>
+    <string name="tru">+</string>
+    <string name="_0dj">0</string>
+    <string name="uy">-</string>
+    <string name="_0iii">$0</string>
+    <string name="_0idsl">$0</string>
+    <string name="kjoio">$-</string>
+    <string name="uiyi">$-</string>
+
+</resources>
